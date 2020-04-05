@@ -19,6 +19,7 @@ public class Helloworld
     public static void main(String[] args)
     {
         System.out.println("I am luck today");
+        System.out.println("How about you buddy ? ") ; 
     }
 
 }
